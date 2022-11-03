@@ -6,7 +6,7 @@ If it looks like I don't know what I am doing, you are correct.
 I am learning. 11/03/22
 --->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hello%20!%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello%20!%20&fontSize=70)
 </br>
 
 # My name is Raul.
